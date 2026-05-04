@@ -20,25 +20,25 @@ Probably gonna move soon from github to something else (like gitlab maybe), but 
 # Devops Techs :
 
 <p>
-    <img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/Docker-Logo.png" alt="Docker" width="100" height="100">
-    <img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/Kubernetes_logo.png" alt="Kubernetes" width="100" height="100">
-    <img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/Gitlab-Logo.svg" alt="Gitlab" width="100" height="100">
-    <img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/Argocd-Logo.png" alt="ArgoCD" width="80" height="100">
-    <img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/Grafana-Logo.svg" alt="Grafana" width="100" height="100">
+    <img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/Docker-Logo.png" alt="Docker" width="60px">
+    <img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/Kubernetes_logo.png" alt="Kubernetes" width="60px">
+    <img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/Gitlab-Logo.svg" alt="Gitlab" width="60px">
+    <img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/Argocd-Logo.png" alt="ArgoCD" width="60px">
+    <img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/Grafana-Logo.svg" alt="Grafana" width="60px">
 </p>
 
 # Scripting Techs :
 
 <p>
-    <img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/Bash_Logo.png" alt="Bash" width="100" height="100">
-    <img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/Python-Logo.png" alt="Python" width="100" height="100">
-    <img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/RubyLogo.webp" alt="Ruby" width="100" height="100">
+    <img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/Bash_Logo.png" alt="Bash" width="60px">
+    <img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/Python-Logo.png" alt="Python" width="60px">
+    <img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/RubyLogo.webp" alt="Ruby" width="60px">
 </p>
 
 # Dev Techs :
 
 <p>
-    <img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/C_Logo.png" alt="C" width="100" height="100">
-    <img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/C++Logo.png" alt="C++" width="100" height="100">
-    <img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/typescript-logo.webp" alt="TypeScript" width="100" height="100">
+    <img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/C_Logo.png" alt="C" width="60px">
+    <img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/C++Logo.png" alt="C++" width="60px">
+    <img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/typescript-logo.webp" alt="TypeScript" width="60px">
 </p>
