@@ -19,24 +19,26 @@ Probably gonna move soon from github to something else (like gitlab maybe), but 
 
 # Devops Techs :
 
-<img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/Docker-Logo.png" alt="Docker" width="100" height="100">
-<img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/Kubernetes_logo.png" alt="Kubernetes" width="100" height="100">
-<img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/Gitlab-Logo.svg" alt="Gitlab" width="100" height="100">
-<img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/Argocd-Logo.png" alt="ArgoCD" width="80" height="100">
-<img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/Grafana-Logo.svg" alt="Grafana" width="100" height="100">
-
-<br>
+<p>
+    <img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/Docker-Logo.png" alt="Docker" width="100" height="100">
+    <img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/Kubernetes_logo.png" alt="Kubernetes" width="100" height="100">
+    <img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/Gitlab-Logo.svg" alt="Gitlab" width="100" height="100">
+    <img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/Argocd-Logo.png" alt="ArgoCD" width="80" height="100">
+    <img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/Grafana-Logo.svg" alt="Grafana" width="100" height="100">
+</p>
 
 # Scripting Techs :
 
-<img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/Bash_Logo.png" alt="Bash" width="100" height="100">
-<img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/Python-Logo.png" alt="Python" width="100" height="100">
-<img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/RubyLogo.webp" alt="Ruby" width="100" height="100">
-
-<br>
+<p>
+    <img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/Bash_Logo.png" alt="Bash" width="100" height="100">
+    <img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/Python-Logo.png" alt="Python" width="100" height="100">
+    <img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/RubyLogo.webp" alt="Ruby" width="100" height="100">
+</p>
 
 # Dev Techs :
 
-<img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/C_Logo.png" alt="C" width="100" height="100">
-<img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/C++Logo.png" alt="C++" width="100" height="100">
-<img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/typescript-logo.webp" alt="TypeScript" width="100" height="100">
+<p>
+    <img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/C_Logo.png" alt="C" width="100" height="100">
+    <img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/C++Logo.png" alt="C++" width="100" height="100">
+    <img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/typescript-logo.webp" alt="TypeScript" width="100" height="100">
+</p>
