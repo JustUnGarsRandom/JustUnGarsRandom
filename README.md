@@ -42,3 +42,16 @@ Probably gonna move soon from github to something else (like gitlab maybe), but 
     <img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/C++Logo.png" alt="C++" width="60px">
     <img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/typescript-logo.webp" alt="TypeScript" width="60px">
 </p>
+
+# Environnement Techs :
+
+### Dev environnement : 
+<p>
+    <img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/Linux-Logo.png" alt="Linux" width="60px">
+    <img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/ArchLinux-Logo.png" alt="ArchLinux" width="60px">
+</p>
+
+### Versioning techs : 
+<p>
+    <img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/GitLogo.png" alt="Linux" width="60px">
+</p>
