@@ -4,7 +4,7 @@ I'm JustUnGarsRandom, student at 42 Le Havre, who's starting to learn about DevO
 <br>
 I've already done Kubernetes, Argo-CD, Gitlab, Dockerfile and docker-compose, but I'm willing to do more !
 <br><br>
-All my 42 Projects are Open Sources (even if sometimes the code quality is from a learn based project) but I hope it can help.
+All my 42 Projects and Finished Personnal Projects are Open Sources (even if sometimes the code quality is from a learn based project) but I hope it can help.
 <br>
 In other technos, I can dev with C, C++, Python, a bit of Ruby and TypeScript.
 <br>
