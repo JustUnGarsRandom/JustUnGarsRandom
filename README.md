@@ -1,4 +1,4 @@
-Heyo !
+Heyo ! 👋
 <br>
 I'm JustUnGarsRandom, student at 42 Le Havre, who's starting to learn about DevOps.
 <br>
