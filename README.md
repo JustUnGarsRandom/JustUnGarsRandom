@@ -1,5 +1,5 @@
-Heyo ! 👋
-<br><br>
+## Heyo ! 👋
+
 I'm JustUnGarsRandom, student at 42 Le Havre, who's starting to learn about DevOps.
 <br>
 I've already done Kubernetes, Argo-CD, Gitlab, Dockerfile and docker-compose, but I'm willing to do more !
