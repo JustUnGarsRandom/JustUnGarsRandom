@@ -49,6 +49,7 @@ Probably gonna move soon from github to something else (like gitlab maybe), but 
 <p>
     <img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/Linux-Logo.png" alt="Linux" width="60px">
     <img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/ArchLinux-Logo.png" alt="ArchLinux" width="60px">
+    <img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/DebianLogo.png" alt="Debian" width="60px">
 </p>
 
 ### Versioning techs : 
