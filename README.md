@@ -35,7 +35,7 @@ Probably gonna move soon from github to something else (like gitlab maybe), but 
     <img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/RubyLogo.webp" alt="Ruby" width="60px">
 </p>
 
-# Dev Techs :
+# Prog Techs :
 
 <p>
     <img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/C_Logo.png" alt="C" width="60px">
