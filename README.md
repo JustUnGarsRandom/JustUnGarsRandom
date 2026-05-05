@@ -17,7 +17,6 @@ All my projects have been done with git and my groups 42 Projects are pinned.
 Probably gonna move soon from github to something else (like gitlab maybe), but I'll upload it here if so.
 
 ---
-<br>
 
 # Devops Techs :
 
