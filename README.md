@@ -53,7 +53,7 @@ Probably gonna move soon from github to something else (like gitlab maybe), but 
     <img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/Ubuntu-Logo.png" alt="Ubuntu" width="60px">
     <br>
     <img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/Hyprland-Logo.png" alt="Hyprland" width="60px">
-    <img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/Gnome-Logo.png" alt="Gnome" width="60px">
+    <img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/Gnome-Logo.svg" alt="Gnome" width="60px">
 </p>
 
 ### Versioning techs : 
