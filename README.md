@@ -57,7 +57,7 @@ Probably gonna move soon from github to something else (like gitlab maybe), but 
     <img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/Ubuntu-Logo.png" alt="Ubuntu" width="60px">
     <br>
     <img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/Hyprland-Logo.png" alt="Hyprland" width="60px">
-    <img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/Gnome-Logo.svg" alt="Gnome" width="60px">
+    <img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/Gnome-Logo.png" alt="Gnome" width="60px">
     <img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/Cinnamon-Logo.png" alt="Cinnamon" width="60px">
     <br>
     <img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/Vim-Logo.png" alt="Vim" width="60px">
@@ -68,7 +68,7 @@ Probably gonna move soon from github to something else (like gitlab maybe), but 
 <p>
     <img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/GitLogo.png" alt="Linux" width="60px">
     <img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/Github-Logo.png" alt="Gitlab" width="60px">
-    <img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/Gitlab-Logo.png" alt="Gitlab" width="60px">
+    <img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/Gitlab-Logo.svg" alt="Gitlab" width="60px">
 </p>
 
 ---
