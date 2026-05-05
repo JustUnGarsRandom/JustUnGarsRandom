@@ -68,7 +68,7 @@ Probably gonna move soon from github to something else (like gitlab maybe), but 
 <p>
     <img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/GitLogo.png" alt="Linux" width="60px">
     <img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/Github-Logo.png" alt="Gitlab" width="60px">
-    <img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/Gitlab-Logo.svg" alt="Gitlab" width="60px">
+    <img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/Gitlab-Logo.png" alt="Gitlab" width="60px">
 </p>
 
 ---
