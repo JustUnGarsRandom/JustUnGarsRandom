@@ -26,6 +26,8 @@ Probably gonna move soon from github to something else (like gitlab maybe), but 
     <img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/Gitlab-Logo.svg" alt="Gitlab" width="60px">
     <img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/Argocd-Logo.png" alt="ArgoCD" width="60px">
     <img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/Grafana-Logo.svg" alt="Grafana" width="60px">
+    <img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/Prometheus-Logo.png" alt="Prometheus" width="60px">
+    <img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/Cadvisor-Logo.png" alt="Cadvisor" width="60px">
     <br>
     <img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/Nginx-Logo.webp" alt="Nginx" width="60px">
     <img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/Caddy-Logo.webp" alt="Caddy" width="60px">
