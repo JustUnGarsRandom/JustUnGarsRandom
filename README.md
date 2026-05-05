@@ -44,6 +44,7 @@ Probably gonna move soon from github to something else (like gitlab maybe), but 
 <p>
     <img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/C_Logo.png" alt="C" width="60px">
     <img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/C++Logo.png" alt="C++" width="60px">
+    <img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/ASM-Logo.png" alt="ASM" width="60px">
     <img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/typescript-logo.webp" alt="TypeScript" width="60px">
 </p>
 
