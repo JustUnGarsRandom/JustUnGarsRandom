@@ -15,6 +15,8 @@ I'm currently looking at Golang and Rust, but maybe to be soon (other things are
 All my projects have been done with git and my groups 42 Projects are pinned.
 <br><br>
 Probably gonna move soon from github to something else (like gitlab maybe), but I'll upload it here if so.
+
+---
 <br>
 
 # Devops Techs :
@@ -69,3 +71,5 @@ Probably gonna move soon from github to something else (like gitlab maybe), but 
     <img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/Github-Logo.png" alt="Gitlab" width="60px">
     <img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/Gitlab-Logo.svg" alt="Gitlab" width="60px">
 </p>
+
+---
