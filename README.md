@@ -30,7 +30,7 @@ Probably gonna move soon from github to something else (like gitlab maybe), but 
     <img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/Cadvisor-Logo.png" alt="Cadvisor" width="50px">
     <br>
     <img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/Nginx-Logo.webp" alt="Nginx" width="60px">
-    <img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/Caddy-Logo.webp" alt="Caddy" width="60px">
+    <img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/Caddy-Logo.jpg" alt="Caddy" width="60px">
 </p>
 
 # Scripting Techs :
