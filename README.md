@@ -77,7 +77,7 @@ Probably gonna move soon from github to something else (like gitlab maybe), but 
 
 ---
 
-## Others Open-Source Techs :
+## Others Open-Source Techs Used For Dev:
 <p>
     <a href="https://github.com/caelestia-dots" title="Caelestia Dots">
         <img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/Caelestia-Logo.png" alt="Caelestia" width="60px">
