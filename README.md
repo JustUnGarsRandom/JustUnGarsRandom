@@ -75,3 +75,9 @@ Probably gonna move soon from github to something else (like gitlab maybe), but 
 </p>
 
 ---
+
+## Others Open-Source Techs :
+<p>
+    <img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/Caelestia-Logo.png" alt="Caelestia" width="60px">
+    <img src="https://github.com/JustUnGarsRandom/JustUnGarsRandom/raw/main/images/Godot-Logo.svg" alt="Godot" width="60px">
+</p>
